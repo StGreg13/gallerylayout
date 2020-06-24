@@ -1,1 +1,1 @@
-# -gallerylayout
+# gallerylayout
